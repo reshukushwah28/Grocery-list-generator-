@@ -1,2 +1,3 @@
 # Grocery-list-generator-
-A simple and interactive Grocery List Generator Chatbot built with HTML, CSS, and JavaScript. It allows users to create and manage their grocery list through a friendly chatbot interface — no backend required!
+A simple and interactive Grocery List Generator Chatbot built with HTML, CSS, and JavaScript. It allows users to create and manage their grocery list through a friendly chatbot interface.
+
